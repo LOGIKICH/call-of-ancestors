@@ -1,0 +1,54 @@
+.logo{
+    width: 200px;
+   height: 170px;
+   text-align: center;
+}
+nav{
+   margin: 10px 0px;
+    text-align: center;
+    padding: 10px;
+}
+nav a{
+   text-decoration: none;
+   padding-right:60px ;
+   color: black;
+   background-color:#efeeb6 ;
+   border-radius: 10px ;
+   padding: 5px;
+   font-size: 18px;
+   margin: 10px;
+}
+
+header h1{
+    text-align: center;
+    padding-left: 10%;
+}
+
+
+
+ul{
+    list-style: url(lapka.svg);
+}
+
+.main_img{
+    width: 90%;
+}
+
+main p{
+    width: 90%;
+    text-align: justify;
+}
+
+h1, h2{
+    text-align: justify;
+    width: 80%;
+}
+
+main{
+    padding-left: 10%;
+}
+
+footer{
+    background-color:#efeeb6 ;
+    padding-left: 10%;
+}
